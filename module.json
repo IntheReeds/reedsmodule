@@ -3,7 +3,7 @@
   "title": "reedsmodule",
   "version": "1.0.0",
   "url": "https://github.com/IntheReeds/reedsmodule",
-  "manifest": "https://github.com/IntheReeds/reedsmodule/blob/main/module.json",
+  "manifest": "https://github.com/IntheReeds/reedsmodule/blob/main/module.json"
   "compatibility": {
     "minimum": "12",
     "verified": "12"
