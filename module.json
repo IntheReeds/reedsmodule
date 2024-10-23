@@ -2,6 +2,7 @@
   "id": "ourmodule",
   "title": "reedsmodule",
   "version": "1.0.0",
+  "manifest": "https://github.com/IntheReeds/reedsmodule/blob/main/module.json",
   "compatibility": {
     "minimum": "12",
     "verified": "12"
